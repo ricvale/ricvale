@@ -14,7 +14,7 @@
 - 💬 Ask me about software engineering.
 - 📫 How to reach me: here.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: plays guitar loud for neighbors to appreciate some free live music 🦖
+- ⚡ Fun fact: plays loud for neighbors to appreciate :guitar:
 
 
 ## 💻 Tech Stack:
