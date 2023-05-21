@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on any interesting or innovative projects.
 - 🤔 I’m looking for help with ... let's see.
 - 💬 Ask me about software engineering.
-- 📫 How to reach me: here.
+- 📫 How to reach me: [by email here](mailto:ricvale01&#64;gmail.com) 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: plays loud for neighbors to appreciate :guitar:
 
