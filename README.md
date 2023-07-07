@@ -7,14 +7,14 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔭 I’m currently working on some interesting projects, php frameworks related for clients, personal openAI, etc.
+- 🔭 I’m currently working part-time on some projects with custom php or frameworks for clients, openAI, etc.
 - 🌱 I’m currently learning anything that I find on my path.
 - 👯 I’m looking to collaborate on any interesting or innovative projects.
-- 🤔 I’m looking for help with ... let's see.
-- 💬 Ask me about software engineering.
-- 📫 How to reach me: [by email here](mailto:ricvale01&#64;gmail.com) 
+- 🤔 I’m looking for help with getting new projects to carry out.
+- 💬 Ask me about software engineering and full-stack development.
+- 📫 How to reach me: [click here to email me](mailto:ricvale01&#64;gmail.com) 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: plays loud for neighbors to appreciate :guitar:
+- ⚡ Fun fact: plays music sometimes for neighbors to appreciate :guitar:
 
 
 ## 💻 Tech Stack:
