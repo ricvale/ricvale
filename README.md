@@ -7,14 +7,13 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔭 I’m currently working full-time.
-- 🌱 I’m currently learning anything that I find on my path.
-- 👯 I’m in a team, learning with interesting projects.
+- 💻 I’m currently working full-time as a software developer.
+- 👯 I’m in a team around the world, currently learning anything that I find on my path.
 - 🤔 I’m looking for help with getting things done.
-- 💬 Ask me about software engineering and full-stack development.
-- 📫 How to reach me: [click here to email me](mailto:ricvale01&#64;gmail.com) 
+- 💬 Ask me about software engineering, full-stack development, or I don't know maybe :guitar:
+- 📫 How to reach me: [email me](mailto:ricvale01&#64;gmail.com) 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Develop in the dark, because light attracts bugs. :guitar:
+- ⚡ Fun fact: Develop in the dark, because light attracts bugs🐞
 
 
 ## 💻 Tech Stack:
