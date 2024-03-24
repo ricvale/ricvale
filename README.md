@@ -8,12 +8,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 - 💻 I’m currently working full-time as a software developer.
-- 👯 I’m in a team around the world, currently learning anything that I find on my path.
+- 👯 I’m in a world-class team, currently learning anything that I find on my path.
 - 🤔 I’m looking for help with getting things done.
 - 💬 Ask me about software engineering, full-stack development, or I don't know maybe :guitar:
 - 📫 How to reach me: [email me](mailto:ricvale01&#64;gmail.com) 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Develop in the dark, because light attracts bugs🐞
+- ⚡ Fun fact: software can be fast, reliable and cheap. Choose any two.
 
 
 ## 💻 Tech Stack:
